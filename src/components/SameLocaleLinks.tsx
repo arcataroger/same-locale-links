@@ -97,14 +97,6 @@ export const SameLocaleLinks = ({ctx}: PropTypes) => {
                     />
                 </FieldGroup>
             </Form>
-
-            <h2>Debug</h2>
-            <ul>
-                <li>Locale: {locale}</li>
-                <li>Item types: <pre>{JSON.stringify(acceptableItemTypes, null, 2)}</pre></li>
-                <li>Field API keys: <pre>{JSON.stringify(titleFieldsByItemType, null, 2)}</pre></li>
-                <li>Acceptable Records: <pre>{JSON.stringify(linkableRecords, null, 2)}</pre></li>
-            </ul>
         </Canvas>
     );
 }
