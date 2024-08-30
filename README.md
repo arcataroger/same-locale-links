@@ -1,3 +1,3 @@
-# [Your plugin name]
+# same-locale-links
 
-[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
+Demo showing how to use a field editor to limit selectable options by the current locale

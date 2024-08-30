@@ -1,6 +1,6 @@
 {
-  "name": "multi-link-locale-filter",
-  "version": "0.1.0",
+  "name": "same-locale-links",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@types/node": "^18.19.47",
